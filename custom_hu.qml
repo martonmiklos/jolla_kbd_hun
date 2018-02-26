@@ -1,6 +1,6 @@
 /* Copyright (C) 2012-2013 Jolla Ltd.
  * HU keyboard modified from Jolla's EN keyboard; contact: Timur Kristóf <timur.kristof@gmail.com>
- * Modified to work with Sailfish 2.0 by Miklos Marton <miklos.marton@ni.com>
+ * Modified to work with Sailfish 2.0 by Miklos Marton <martonmiklosqdev@gmail.com>
  * 
  * Custom keyboard framework modifications
  * Split keyboard support and adaptation to SailfishOS 1.1.4
